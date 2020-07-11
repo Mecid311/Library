@@ -1,0 +1,7 @@
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\bin\Debug\LibraryConsoleApp.exe.config
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\bin\Debug\LibraryConsoleApp.exe
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\bin\Debug\LibraryConsoleApp.pdb
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\obj\Debug\LibraryConsoleApp.csprojAssemblyReference.cache
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\obj\Debug\LibraryConsoleApp.csproj.CoreCompileInputs.cache
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\obj\Debug\LibraryConsoleApp.exe
+D:\Code-Library\BookLibrarySolution\LibraryConsoleApp\obj\Debug\LibraryConsoleApp.pdb
